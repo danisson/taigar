@@ -1,1 +1,1 @@
-export let a = (() => (console.log("a"), 1))();
+export let a = (() => (console.log("a"), 800))();

@@ -1,6 +1,6 @@
 /// <reference path="../typings/phaser.d.ts"/>
 
-import { a } from "./test";
+import { a, b } from "./test.js";
 
 class SimpleGame {
     constructor() {
